@@ -1,5 +1,5 @@
 ### Step1
-> Windows用户请点击：[OpenConnect VPN客户端(适用：Windows 10/8/7系统)](http://inc.sysu.edu.cn/sites/inc.sysu.edu.cn/files/upload/download/openconnect-gui-1.5.1-win.zip)
+> Windows用户请点击下载：[OpenConnect VPN客户端(适用：Windows 10/8/7系统)](http://inc.sysu.edu.cn/sites/inc.sysu.edu.cn/files/upload/download/openconnect-gui-1.5.1-win.zip)
 
 ### Step2
 > 以Openconnect Windows版为例：
